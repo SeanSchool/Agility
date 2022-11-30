@@ -1,0 +1,19 @@
+//Step One – Zig-Zags
+
+1.	Enable Stabilization
+2.	Roll 315 degrees at 53 speed for 2 seconds
+3.	Delay for 1 second
+4.	Roll 45 degrees at 53 speed for 2 seconds
+5.	Delay for 1 second
+6.	Roll for 315 Degrees at 53 speed for 2.2 seconds
+7.	Delay for 2 seconds
+
+//Step Two - Ramp
+8.	Roll 45 degrees at 128 speed for 2.5 seconds
+9.	Delay for 2 seconds
+
+//Step Three - Pins
+10.	Roll 180 degrees at 127 speed for 3.2 seconds
+11.	Delay for 2 seconds
+12.	Reset Aim
+13.	Terminate Program
